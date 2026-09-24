@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Live Recorder & Telegram Uploader Bot",
+  "description": "Auto-monitor TikTok live streams, record streams using yt-dlp/ffmpeg, and automatically upload recorded videos directly to Telegram channels or chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

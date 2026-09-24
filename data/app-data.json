@@ -1,0 +1,611 @@
+{
+  "telegram": {
+    "botToken": "8975526652:AAElpRXVupQpF6DiN0UGvCpJq3glXK4o6Yk",
+    "chatId": "-1003869469517",
+    "topicId": "",
+    "enabled": true,
+    "sendLiveAlerts": true,
+    "sendUploadProgress": true,
+    "maxUploadSizeMb": 500,
+    "autoSplit": true,
+    "autoDeleteAfterUpload": true,
+    "apiBaseUrl": "https://api.telegram.org",
+    "pollingEnabled": true
+  },
+  "recorder": {
+    "checkIntervalSeconds": 45,
+    "maxConcurrentRecordings": 20,
+    "minFreeDiskGb": 2,
+    "preferredQuality": "best",
+    "stopMonitoringAfterUpload": true,
+    "engine": "michele0303",
+    "useTikRecSigning": true,
+    "useEulerStreamFallback": true,
+    "proxy": "",
+    "cookies": ""
+  },
+  "monitoredUsers": [
+    {
+      "id": "user_1790230693196_f4qzq",
+      "username": "ilovemyself0319",
+      "displayName": "ຖ",
+      "autoRecord": false,
+      "isLive": false,
+      "status": "offline",
+      "lastChecked": "2026-09-24T06:40:31.772Z",
+      "liveTitle": "@ilovemyself0319 TikTok Live",
+      "lastLiveAt": "2026-09-24T06:40:31.772Z",
+      "avatarUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/c7d23c3e54f066ac3e073e1c6c7a45e0~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=1211802e&x-expires=1790402400&x-signature=TgNL7j3ELmg85W2E5i2pvROKm6A%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my"
+    },
+    {
+      "id": "user_1790230693218_7re5k",
+      "username": "titaboqandconstruction",
+      "displayName": "ฑิตาออกแบบและก่อสร้าง 🐰",
+      "autoRecord": true,
+      "isLive": false,
+      "status": "offline",
+      "lastChecked": "2026-09-24T10:11:22.278Z",
+      "liveTitle": "TikTok Live",
+      "lastLiveAt": "2026-09-24T06:39:46.312Z",
+      "avatarUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/04c74dd215d8a1becffe51635ef03fbd~tplv-tiktokx-cropcenter:1080:1080.webp?dr=14579&refresh_token=08627647&x-expires=1790416800&x-signature=qCYtTTqgnCDrzxq470wAhM3eBVc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my"
+    },
+    {
+      "id": "user_1790232166897_i0n7v",
+      "username": "cimetavachirawit",
+      "displayName": "cimetavachirawit",
+      "autoRecord": false,
+      "isLive": false,
+      "status": "offline",
+      "lastChecked": "2026-09-24T06:49:32.569Z",
+      "avatarUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/802440e5bb0b21d4b423911537812f48~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=3df09497&x-expires=1790402400&x-signature=aubYdzPgeKHzyRKoE694EwShAbQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my"
+    },
+    {
+      "id": "user_1790232252797_jufuk",
+      "username": "chintya.ay",
+      "displayName": "Chin",
+      "autoRecord": false,
+      "isLive": false,
+      "status": "offline",
+      "lastChecked": "2026-09-24T09:54:49.628Z",
+      "avatarUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/c84c5eed56296f4a27701bc8293d9ae2~tplv-tiktokx-cropcenter:1080:1080.webp?dr=14579&refresh_token=ff3c2cf3&x-expires=1790413200&x-signature=tdbixvNAqqR0SP4%2BWUEesxGT1ps%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+      "liveTitle": "@chintya.ay TikTok Live",
+      "lastLiveAt": "2026-09-24T09:08:20.053Z"
+    },
+    {
+      "id": "user_1790232289268_cdrok",
+      "username": "ssssil99",
+      "displayName": "Ikan redflag 🚩",
+      "autoRecord": false,
+      "isLive": false,
+      "status": "offline",
+      "liveTitle": "@ssssil99 TikTok Live",
+      "avatarUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/4b515c8a3fc1810c58f42058d7562583~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=15643eaa&x-expires=1790409600&x-signature=ZJ1%2FGXSC6pi0b2iInyb4tWeC9Ig%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+      "lastLiveAt": "2026-09-24T08:07:40.842Z",
+      "lastChecked": "2026-09-24T08:07:40.842Z"
+    },
+    {
+      "id": "user_1790242631423_3ckph",
+      "username": "yantompruy",
+      "displayName": "user031323",
+      "autoRecord": true,
+      "isLive": false,
+      "status": "offline",
+      "lastChecked": "2026-09-24T10:11:24.851Z",
+      "avatarUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/2ed145f8374d419abed0f2bb8abf9630~tplv-tiktokx-cropcenter:1080:1080.webp?dr=14579&refresh_token=3179674e&x-expires=1790416800&x-signature=iYyG7v3JSxwMObL1EQA79%2BosY70%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my"
+    },
+    {
+      "id": "user_1790242661459_8htdo",
+      "username": "verralouise_03",
+      "displayName": "verralouise_03",
+      "autoRecord": true,
+      "isLive": false,
+      "status": "offline",
+      "lastChecked": "2026-09-24T10:11:27.380Z",
+      "avatarUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/b73bf6aa318dd138d08434cd51cd72c8~tplv-tiktokx-cropcenter:1080:1080.webp?dr=14579&refresh_token=9d99721d&x-expires=1790413200&x-signature=d0aryH2MLPtk%2BEa8%2F2S6PilVvV8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my"
+    },
+    {
+      "id": "user_1790242724009_s7qu1",
+      "username": "nengkimmy09",
+      "displayName": "Kimmy2",
+      "autoRecord": true,
+      "isLive": false,
+      "status": "offline",
+      "lastChecked": "2026-09-24T10:10:46.125Z",
+      "avatarUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/c82f26946d36c07c594fa72dd443cc26~tplv-tiktokx-cropcenter:100:100.webp?dr=14579&refresh_token=f02c9582&x-expires=1790416800&x-signature=g3KNmA4DkCjYf13ucHMJ1Mgz33A%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my"
+    }
+  ],
+  "recordings": [
+    {
+      "id": "rec_1790240900796_bcrns",
+      "username": "chintya.ay",
+      "streamTitle": "@chintya.ay TikTok Live",
+      "fileName": "chintya.ay_2026-09-24T09-08-20-796Z.mp4",
+      "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z.mp4",
+      "fileSizeBytes": 278207207,
+      "durationSeconds": 2110,
+      "startedAt": "2026-09-24T09:08:20.796Z",
+      "endedAt": "2026-09-24T09:43:31.000Z",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790240900796_bcrns",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part1_part1.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part1_part1.mp4",
+          "fileSizeBytes": 21555642,
+          "telegramMessageId": 72,
+          "uploaded": true
+        },
+        {
+          "partIndex": 2,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part1_part2.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part1_part2.mp4",
+          "fileSizeBytes": 22186385,
+          "telegramMessageId": 73,
+          "uploaded": true
+        },
+        {
+          "partIndex": 3,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part1_part3.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part1_part3.mp4",
+          "fileSizeBytes": 21976878,
+          "telegramMessageId": 74,
+          "uploaded": true
+        },
+        {
+          "partIndex": 4,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part2_part1.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part2_part1.mp4",
+          "fileSizeBytes": 22184451,
+          "telegramMessageId": 75,
+          "uploaded": true
+        },
+        {
+          "partIndex": 5,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part2_part2.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part2_part2.mp4",
+          "fileSizeBytes": 22060582,
+          "telegramMessageId": 76,
+          "uploaded": true
+        },
+        {
+          "partIndex": 6,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part2_part3.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part2_part3.mp4",
+          "fileSizeBytes": 21947410,
+          "telegramMessageId": 77,
+          "uploaded": true
+        },
+        {
+          "partIndex": 7,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part3_part1.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part3_part1.mp4",
+          "fileSizeBytes": 22107494,
+          "telegramMessageId": 78,
+          "uploaded": true
+        },
+        {
+          "partIndex": 8,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part3_part2.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part3_part2.mp4",
+          "fileSizeBytes": 22275227,
+          "telegramMessageId": 79,
+          "uploaded": true
+        },
+        {
+          "partIndex": 9,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part3_part3.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part3_part3.mp4",
+          "fileSizeBytes": 21944537,
+          "telegramMessageId": 80,
+          "uploaded": true
+        },
+        {
+          "partIndex": 10,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part4.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part4.mp4",
+          "fileSizeBytes": 39685671,
+          "telegramMessageId": 81,
+          "uploaded": true
+        },
+        {
+          "partIndex": 11,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part5.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part5.mp4",
+          "fileSizeBytes": 112443,
+          "telegramMessageId": 82,
+          "uploaded": true
+        },
+        {
+          "partIndex": 12,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part6.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part6.mp4",
+          "fileSizeBytes": 112443,
+          "telegramMessageId": 83,
+          "uploaded": true
+        },
+        {
+          "partIndex": 13,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part7.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part7.mp4",
+          "fileSizeBytes": 112443,
+          "telegramMessageId": 84,
+          "uploaded": true
+        },
+        {
+          "partIndex": 14,
+          "totalParts": 14,
+          "filePath": "/app/applet/data/recordings/chintya.ay_2026-09-24T09-08-20-796Z_part8.mp4",
+          "fileName": "chintya.ay_2026-09-24T09-08-20-796Z_part8.mp4",
+          "fileSizeBytes": 41927837,
+          "telegramMessageId": 85,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 72,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790237544898_ojkfe",
+      "username": "ssssil99",
+      "streamTitle": "@ssssil99 TikTok Live",
+      "fileName": "ssssil99_2026-09-24T08-12-24-898Z.mp4",
+      "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-12-24-898Z.mp4",
+      "fileSizeBytes": 80828099,
+      "durationSeconds": 705,
+      "startedAt": "2026-09-24T08:12:24.898Z",
+      "endedAt": "2026-09-24T08:24:10.188Z",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790237544898_ojkfe",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 3,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-12-24-898Z_part1.mp4",
+          "fileName": "ssssil99_2026-09-24T08-12-24-898Z_part1.mp4",
+          "fileSizeBytes": 28642518,
+          "telegramMessageId": 68,
+          "uploaded": true
+        },
+        {
+          "partIndex": 2,
+          "totalParts": 3,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-12-24-898Z_part2.mp4",
+          "fileName": "ssssil99_2026-09-24T08-12-24-898Z_part2.mp4",
+          "fileSizeBytes": 28019376,
+          "telegramMessageId": 69,
+          "uploaded": true
+        },
+        {
+          "partIndex": 3,
+          "totalParts": 3,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-12-24-898Z_part3.mp4",
+          "fileName": "ssssil99_2026-09-24T08-12-24-898Z_part3.mp4",
+          "fileSizeBytes": 24261276,
+          "telegramMessageId": 70,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 68,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790237261607_c4xpx",
+      "username": "ssssil99",
+      "streamTitle": "@ssssil99 TikTok Live",
+      "fileName": "ssssil99_2026-09-24T08-07-41-607Z.mp4",
+      "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-07-41-607Z.mp4",
+      "fileSizeBytes": 32743086,
+      "durationSeconds": 238,
+      "startedAt": "2026-09-24T08:07:41.607Z",
+      "endedAt": "2026-09-24T08:11:40.020Z",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790237261607_c4xpx",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-07-41-607Z.mp4",
+          "fileName": "ssssil99_2026-09-24T08-07-41-607Z.mp4",
+          "fileSizeBytes": 23592988,
+          "telegramMessageId": 67,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 67,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790237237115_ozggx",
+      "username": "ssssil99",
+      "streamTitle": "@ssssil99 TikTok Live",
+      "fileName": "ssssil99_2026-09-24T08-07-17-115Z.mp4",
+      "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-07-17-115Z.mp4",
+      "fileSizeBytes": 1572892,
+      "durationSeconds": 12,
+      "startedAt": "2026-09-24T08:07:17.116Z",
+      "endedAt": "",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790237237115_ozggx",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-07-17-115Z.mp4",
+          "fileName": "ssssil99_2026-09-24T08-07-17-115Z.mp4",
+          "fileSizeBytes": 1572892,
+          "telegramMessageId": 62,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 62,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790236967367_uhs07",
+      "username": "ssssil99",
+      "streamTitle": "@ssssil99 TikTok Live",
+      "fileName": "ssssil99_2026-09-24T08-02-47-367Z.mp4",
+      "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-02-47-367Z.mp4",
+      "fileSizeBytes": 26214448,
+      "durationSeconds": 260,
+      "startedAt": "2026-09-24T08:02:47.367Z",
+      "endedAt": "",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790236967367_uhs07",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T08-02-47-367Z.mp4",
+          "fileName": "ssssil99_2026-09-24T08-02-47-367Z.mp4",
+          "fileSizeBytes": 26214448,
+          "telegramMessageId": 63,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 63,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790234491055_gmyco",
+      "username": "ssssil99",
+      "streamTitle": "Kalo uda ma kamu, aku setia",
+      "fileName": "ssssil99_2026-09-24T07-21-31-055Z.mp4",
+      "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T07-21-31-055Z.mp4",
+      "fileSizeBytes": 105119792,
+      "durationSeconds": 962,
+      "startedAt": "2026-09-24T07:21:31.055Z",
+      "endedAt": "",
+      "status": "failed",
+      "downloadUrl": "/api/recordings/download/rec_1790234491055_gmyco",
+      "uploadProgress": 10,
+      "error": "Upload failed: FFmpeg split failed on chunk 1"
+    },
+    {
+      "id": "rec_1790234239035_rtjc6",
+      "username": "ssssil99",
+      "streamTitle": "Kalo uda ma kamu, aku setia",
+      "fileName": "ssssil99_2026-09-24T07-17-19-035Z.mp4",
+      "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T07-17-19-035Z.mp4",
+      "fileSizeBytes": 28573744,
+      "durationSeconds": 218,
+      "startedAt": "2026-09-24T07:17:19.036Z",
+      "endedAt": "",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790234239035_rtjc6",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T07-17-19-035Z.mp4",
+          "fileName": "ssssil99_2026-09-24T07-17-19-035Z.mp4",
+          "fileSizeBytes": 29098032,
+          "telegramMessageId": 58,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 58,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790232290622_4iv1x",
+      "username": "ssssil99",
+      "streamTitle": "Kalo uda ma kamu, aku setia",
+      "fileName": "ssssil99_2026-09-24T06-44-50-622Z.mp4",
+      "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T06-44-50-622Z.mp4",
+      "fileSizeBytes": 128597965,
+      "durationSeconds": 1057,
+      "startedAt": "2026-09-24T06:44:50.622Z",
+      "endedAt": "2026-09-24T07:02:28.127Z",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790232290622_4iv1x",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 3,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T06-44-50-622Z_part1.mp4",
+          "fileName": "ssssil99_2026-09-24T06-44-50-622Z_part1.mp4",
+          "fileSizeBytes": 41481548,
+          "telegramMessageId": 51,
+          "uploaded": true
+        },
+        {
+          "partIndex": 2,
+          "totalParts": 3,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T06-44-50-622Z_part2.mp4",
+          "fileName": "ssssil99_2026-09-24T06-44-50-622Z_part2.mp4",
+          "fileSizeBytes": 47455492,
+          "telegramMessageId": 53,
+          "uploaded": true
+        },
+        {
+          "partIndex": 3,
+          "totalParts": 3,
+          "filePath": "/app/applet/data/recordings/ssssil99_2026-09-24T06-44-50-622Z_part3.mp4",
+          "fileName": "ssssil99_2026-09-24T06-44-50-622Z_part3.mp4",
+          "fileSizeBytes": 40027970,
+          "telegramMessageId": 55,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 51,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790232168797_7fk24",
+      "username": "cimetavachirawit",
+      "streamTitle": "belajar",
+      "fileName": "cimetavachirawit_2026-09-24T06-42-48-797Z.mp4",
+      "filePath": "/app/applet/data/recordings/cimetavachirawit_2026-09-24T06-42-48-797Z.mp4",
+      "fileSizeBytes": 43483973,
+      "durationSeconds": 346,
+      "startedAt": "2026-09-24T06:42:48.797Z",
+      "endedAt": "2026-09-24T06:48:34.995Z",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790232168797_7fk24",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/cimetavachirawit_2026-09-24T06-42-48-797Z.mp4",
+          "fileName": "cimetavachirawit_2026-09-24T06-42-48-797Z.mp4",
+          "fileSizeBytes": 43483973,
+          "telegramMessageId": 49,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 49,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790232030902_31jde",
+      "username": "ilovemyself0319",
+      "streamTitle": "@ilovemyself0319 TikTok Live",
+      "fileName": "ilovemyself0319_2026-09-24T06-40-30-902Z.mp4",
+      "filePath": "/app/applet/data/recordings/ilovemyself0319_2026-09-24T06-40-30-902Z.mp4",
+      "fileSizeBytes": 2946768,
+      "durationSeconds": 23,
+      "startedAt": "2026-09-24T06:40:30.902Z",
+      "endedAt": "2026-09-24T06:40:53.519Z",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790232030902_31jde",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/ilovemyself0319_2026-09-24T06-40-30-902Z.mp4",
+          "fileName": "ilovemyself0319_2026-09-24T06-40-30-902Z.mp4",
+          "fileSizeBytes": 2946768,
+          "telegramMessageId": 45,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 45,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790231984294_ytnmt",
+      "username": "ilovemyself0319",
+      "streamTitle": "TikTok Live",
+      "fileName": "ilovemyself0319_2026-09-24T06-39-44-294Z.mp4",
+      "filePath": "/app/applet/data/recordings/ilovemyself0319_2026-09-24T06-39-44-294Z.mp4",
+      "fileSizeBytes": 5242928,
+      "durationSeconds": 41,
+      "startedAt": "2026-09-24T06:39:44.294Z",
+      "endedAt": "",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790231984294_ytnmt",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/ilovemyself0319_2026-09-24T06-39-44-294Z.mp4",
+          "fileName": "ilovemyself0319_2026-09-24T06-39-44-294Z.mp4",
+          "fileSizeBytes": 5505072,
+          "telegramMessageId": 48,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 48,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790230608126_uy0rh",
+      "username": "ilovemyself0319",
+      "streamTitle": "TikTok Live @ilovemyself0319",
+      "fileName": "ilovemyself0319_2026-09-24T06-16-48-126Z.mp4",
+      "filePath": "/app/applet/data/recordings/ilovemyself0319_2026-09-24T06-16-48-126Z.mp4",
+      "fileSizeBytes": 13328303,
+      "durationSeconds": 102,
+      "startedAt": "2026-09-24T06:16:48.126Z",
+      "endedAt": "",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790230608126_uy0rh",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/ilovemyself0319_2026-09-24T06-16-48-126Z.mp4",
+          "fileName": "ilovemyself0319_2026-09-24T06-16-48-126Z.mp4",
+          "fileSizeBytes": 13892610,
+          "telegramMessageId": 10,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 10,
+      "telegramChatId": "-1003869469517"
+    },
+    {
+      "id": "rec_1790229773135_g8jo6",
+      "username": "echaay.e",
+      "streamTitle": "TikTok Live @echaay.e",
+      "fileName": "echaay.e_2026-09-24T06-02-53-135Z.mp4",
+      "filePath": "/app/applet/data/recordings/echaay.e_2026-09-24T06-02-53-135Z.mp4",
+      "fileSizeBytes": 8178355,
+      "durationSeconds": 62,
+      "startedAt": "2026-09-24T06:02:53.136Z",
+      "endedAt": "2026-09-24T06:03:55.146Z",
+      "status": "uploaded",
+      "downloadUrl": "/api/recordings/download/rec_1790229773135_g8jo6",
+      "uploadProgress": 100,
+      "parts": [
+        {
+          "partIndex": 1,
+          "totalParts": 1,
+          "filePath": "/app/applet/data/recordings/echaay.e_2026-09-24T06-02-53-135Z.mp4",
+          "fileName": "echaay.e_2026-09-24T06-02-53-135Z.mp4",
+          "fileSizeBytes": 8178355,
+          "telegramMessageId": 3,
+          "uploaded": true
+        }
+      ],
+      "telegramMessageId": 3,
+      "telegramChatId": "-1003869469517"
+    }
+  ]
+}
